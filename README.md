@@ -15,9 +15,9 @@ Let's see some examples of MVC app.
 
 ### Counter App
 
-As a [default example](https://github.com/aymentoumi/ProviderMVC/tree/main/example), we developed our version of the famous flutter counter app.
+As a [default example](https://github.com/aymentoumi/ProviderMVC/tree/master/example), we developed our version of the famous flutter counter app.
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/example/asset/counter.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/example/asset/counter.gif)
 
 #### Step 1
 
@@ -127,26 +127,26 @@ void main() => runApp(
 
 ### Other examples
 
-[**BG Color App**](https://github.com/aymentoumi/ProviderMVC/tree/main/projects/bg_color)
+[**BG Color App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/bg_color)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/projects/bg_color/image/bg_color.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/bg_color/image/bg_color.gif)
 
-[**Bulbs App**](https://github.com/aymentoumi/ProviderMVC/tree/main/projects/bulbs)
+[**Bulbs App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/bulbs)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/projects/bulbs/image/bulbs.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/bulbs/image/bulbs.gif)
 
-[**Movie List App**](https://github.com/aymentoumi/ProviderMVC/tree/main/projects/movie_list)
+[**Movie List App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/movie_list)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/projects/movie_list/image/movie_list.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/movie_list/image/movie_list.gif)
 
-[**Github Portfolio App**](https://github.com/aymentoumi/ProviderMVC/tree/main/projects/portfolio)
+[**Github Portfolio App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/portfolio)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/projects/portfolio/image/portfolio.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/portfolio/image/portfolio.gif)
 
-[**Project Management Board App**](https://github.com/aymentoumi/ProviderMVC/tree/main/projects/project_board)
+[**Project Management Board App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/project_board)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/projects/project_board/image/project_board.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/project_board/image/project_board.gif)
 
-[**Community Feed App**](https://github.com/aymentoumi/ProviderMVC/tree/main/projects/community_feed)
+[**Community Feed App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/community_feed)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/main/projects/community_feed/image/project_board.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/community_feed/image/project_board.gif)
