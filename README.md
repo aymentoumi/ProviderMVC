@@ -17,7 +17,7 @@ Let's see some examples of MVC app.
 
 As a [default example](https://github.com/aymentoumi/ProviderMVC/tree/master/example), we developed our version of the famous flutter counter app.
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/example/asset/counter.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/example/image/counter.gif)
 
 #### Step 1
 
@@ -149,4 +149,4 @@ void main() => runApp(
 
 [**Community Feed App**](https://github.com/aymentoumi/ProviderMVC/tree/master/projects/community_feed)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/community_feed/image/project_board.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/projects/community_feed/image/community_feed.gif)
