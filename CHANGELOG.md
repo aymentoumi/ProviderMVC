@@ -112,3 +112,8 @@
 ## [3.0.0] - Dec 17, 2020
 
 - Project recode.
+
+## [3.0.1] - Dec 24, 2020
+
+- Upgrade samples packages.
+- Change samples folder name.
