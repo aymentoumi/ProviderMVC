@@ -127,26 +127,26 @@ void main() => runApp(
 
 ### Other examples
 
-[**BG Color App**](https://github.com/aymentoumi/ProviderMVC/tree/master/samples/bg_color)
+[**BG Color App**](https://github.com/aymentoumi/ProviderMVC/tree/master/Samples/bg_color)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/samples/bg_color/image/bg_color.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/Samples/bg_color/image/bg_color.gif)
 
-[**Bulbs App**](https://github.com/aymentoumi/ProviderMVC/tree/master/samples/bulbs)
+[**Bulbs App**](https://github.com/aymentoumi/ProviderMVC/tree/master/Samples/bulbs)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/samples/bulbs/image/bulbs.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/Samples/bulbs/image/bulbs.gif)
 
-[**Movie List App**](https://github.com/aymentoumi/ProviderMVC/tree/master/samples/movie_list)
+[**Movie List App**](https://github.com/aymentoumi/ProviderMVC/tree/master/Samples/movie_list)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/samples/movie_list/image/movie_list.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/Samples/movie_list/image/movie_list.gif)
 
-[**Github Portfolio App**](https://github.com/aymentoumi/ProviderMVC/tree/master/samples/portfolio)
+[**Github Portfolio App**](https://github.com/aymentoumi/ProviderMVC/tree/master/Samples/portfolio)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/samples/portfolio/image/portfolio.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/Samples/portfolio/image/portfolio.gif)
 
-[**Project Management Board App**](https://github.com/aymentoumi/ProviderMVC/tree/master/samples/project_board)
+[**Project Management Board App**](https://github.com/aymentoumi/ProviderMVC/tree/master/Samples/project_board)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/samples/project_board/image/project_board.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/Samples/project_board/image/project_board.gif)
 
-[**Community Feed App**](https://github.com/aymentoumi/ProviderMVC/tree/master/samples/community_feed)
+[**Community Feed App**](https://github.com/aymentoumi/ProviderMVC/tree/master/Samples/community_feed)
 
-![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/samples/community_feed/image/community_feed.gif)
+![image](https://raw.githubusercontent.com/aymentoumi/ProviderMVC/master/Samples/community_feed/image/community_feed.gif)
